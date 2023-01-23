@@ -1,0 +1,24 @@
+h1{
+    color: blueviolet; 
+    background-color:light grey;
+    font-weight:bold;
+}
+
+
+
+p{color: red;}
+
+.container{color: green;
+font: 15px Arial,sans-serif ;}
+
+#list { list-style: none;}
+
+.list-container{text-align: center;
+outline: dotted;}
+
+.list-container:hover{background: black ;
+color: white;}
+
+.list-item{font: 8px Arial, sans-serif;}
+
+/* This is a single line comment */
