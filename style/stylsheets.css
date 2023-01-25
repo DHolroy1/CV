@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+    background-color: #ee63db;
+    text-align: center;
+    padding: 10px;
+}
+.column {
+    background-color: #ffd8fa;
+    display: inline;
+    padding: 20px;
+    float: left;
+    width: 50%;
+}
+.biobox {
+    background-color: #dd66cd;
+    padding: 20px;
+    float: left;
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+}
+.education {
+    background-color: #ffd8fa;
+    padding: 30px;
+    display: inline-block;
+    width: 100%;
+}
+.h1 {
+    display: inline;
+}

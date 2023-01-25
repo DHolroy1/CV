@@ -1,3 +1,53 @@
+.title {
+    background-color: rgb(47, 234, 255);
+    text-align: center;
+    padding: 40px;
+    font: 15px Arial,sans-serif 
+}
+
+.column1 {
+ 
+    float: left;
+    background-color:lightblue;
+    width: 50%;
+    height: 200px;
+    font: 10px Arial,sans-serif;
+  }
+  .row:after {
+
+    content: "";
+    display: table;    clear: both;
+  }
+
+
+.biobox {
+    background-color: #66dd7c;
+    
+    display: inline-block;
+    width: 100%;
+    font: 10px Arial,sans-serif;
+    text-align: left;
+}
+
+.column2 {
+ 
+    float: left;
+    background-color:lightblue;
+    width: 100%;
+    height: 200px;
+    font: 10px Arial,sans-serif;
+  }
+.column {
+    background-color: #ffd8d8;
+    display: inline;
+    padding: 20px;
+    float: left;
+    width: 50%;
+    font: 10px Arial,sans-serif 
+}
+
+
+
 h1{
     color: blueviolet; 
     background-color:light grey;
@@ -6,7 +56,7 @@ h1{
 
 
 
-p{color: rgb(255, 174, 0);}
+p{color: rgb(17, 0, 255);}
 
 .container{color: green;
 font: 15px Arial,sans-serif ;}
